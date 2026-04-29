@@ -34,7 +34,7 @@ The workbook covers the full analytical pipeline:
 
 - `NSW Fuel Price Data.xlsx` – the full workbook, including the dashboard, pivot analysis, lookup panel, scenario summary, and what-if sheets
 - `dashboard.png` – preview image of the final dashboard
-- > Note: Please download the Excel file to view it properly. GitHub's browser preview doesn't support some of the advanced features used in this workbook, such as Scenario Manager.
+> Note: Please download the Excel file to view it properly. GitHub's browser preview doesn't support some of the advanced features used in this workbook, such as Scenario Manager.
 
 ## Tools
 
