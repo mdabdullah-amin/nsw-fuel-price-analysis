@@ -15,7 +15,7 @@ Data cleaning, segmentation, lookup-driven analysis, pivot reporting,
 and scenario modelling, delivered through an interactive Excel dashboard.
 
 ## Files
-- `Fuel_Price_Hike.xlsx` – full workbook with dashboard, pivots, and analysis sheets
+- `NSW_Fuel_Price_Data.xlsx` – full workbook with dashboard, pivots, and analysis sheets
 
 ## Data Source
 FuelCheck dataset, Data.NSW: https://data.nsw.gov.au/data/en/dataset/fuel-check
