@@ -1,5 +1,3 @@
-# nsw-fuel-price-analysis
-Excel-based analysis of 147,137 NSW fuel price records, surfacing pricing trends by brand, day, and suburb.
 # NSW Fuel Price Analysis – March 2026
 
 Analysis of 147,137 NSW fuel price records to identify pricing patterns 
